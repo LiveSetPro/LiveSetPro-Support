@@ -1,48 +1,30 @@
-# Privacy Policy  
+# LiveSetPro Support  
 
-## Introduction  
-Welcome to **LiveSetPro**! Your privacy is important to us. This Privacy Policy explains how we handle your data while using our app.  
-
----
-
-## No Personal Data Collection  
-**LiveSetPro** does not collect, store, or process any personal information. The app is designed to function entirely on your device, ensuring your data remains private and secure.  
+Welcome to the **LiveSetPro Support Page**! Below you’ll find resources and information to help you get the most out of the app.  
 
 ---
 
-## Anonymous Usage Data  
-To improve app performance and user experience, **LiveSetPro** may collect limited anonymous data directly on your device, such as:  
-- App usage patterns.  
-- Error or crash logs.  
+## FAQs  
 
-This data is used solely for debugging and performance improvements and is never transmitted or stored on external servers.  
+### 1. How do I create a setlist?  
+- Open the app and tap on the **"Create Setlist"** button.  
+- Add songs to your setlist from your library or import from platforms like Ultimate Guitar or La Cuerda.  
 
----
+### 2. How do I import songs?  
+- Go to the **Songs** section and tap **"Import Song"**.  
+- Select a platform (e.g., Ultimate Guitar) and follow the on-screen instructions.  
 
-## No Third-Party Data Sharing  
-Since **LiveSetPro** does not collect personal information or use external servers, no data is shared with third parties.  
-
----
-
-## Third-Party Integrations  
-The app integrates with third-party platforms like Ultimate Guitar and La Cuerda to import songs. These platforms operate independently, and we encourage you to review their privacy policies for more details.  
-
----
-
-## Security and Privacy by Design  
-**LiveSetPro** operates entirely on your device, ensuring that your data is not uploaded to any external server. This design prioritizes your privacy and security.  
-
----
-
-## Updates to This Policy  
-We may update this Privacy Policy from time to time. Any changes will be reflected here with an updated effective date.  
+### 3. Can I transpose a song?  
+- Yes! Open a song, tap on the **Transpose** option, and adjust the key as needed.  
 
 ---
 
 ## Contact Us  
-If you have any questions or concerns about this Privacy Policy, please contact us at:  
-**Email:** [technology.apps.aj@gmail.com](mailto:technology.apps.aj@gmail.com)  
+
+If you have questions, feedback, or encounter any issues, please feel free to contact us:  
+- **Email:** [technology.apps.aj@gmail.com](mailto:technology.apps.aj@gmail.com)  
 
 ---
 
-**Effective Date:**    Jan 1st 2025  
+
+Thank you for using **LiveSetPro**!  
