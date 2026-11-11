@@ -20,7 +20,7 @@ En la pestaña **Canciones** toca **+**. Puedes escribirla, **pegarla como canci
 Abre la canción o el set en modo en vivo y usa el control **Transponer** para cambiar el tono. En un set, el tono se guarda por canción.
 
 **¿Cómo comparto un set?**
-Desde el set, usa **Compartir** para enviar un PDF de una hoja, o exporta un archivo `.lsp` para abrirlo en otro iPhone con LiveSetPro.
+Desde el set, usa **Compartir** para enviar un PDF de una hoja.
 
 **¿Puedo usar la app sin internet?**
 Sí. La app funciona sin conexión; solo necesitas internet para buscar canciones en la web o recibir actualizaciones.
@@ -30,7 +30,7 @@ En **Ajustes → General**.
 
 ## Tus datos y respaldos
 
-Tus canciones y sets se guardan **solo en tu dispositivo**. No hacemos respaldos: si cambias de teléfono o desinstalas la app, puedes perder tu biblioteca. Exporta tus sets (`.lsp`) con regularidad y guárdalos en un lugar seguro.
+Tus canciones y sets se guardan **solo en tu dispositivo**. No hacemos respaldos: si cambias de teléfono o desinstalas la app, puedes perder tu biblioteca. Por ahora la app no tiene respaldo ni exportación de la biblioteca.
 
 ## Reclamos de derechos de autor
 
@@ -63,7 +63,7 @@ In the **Songs** tab tap **+**. You can type it, **paste it as a new song** (cop
 Open the song or set in live mode and use the **Transpose** control to change the key. In a set, the key is saved per song.
 
 **How do I share a set?**
-From the set, use **Share** to send a one-page PDF, or export an `.lsp` file to open in another iPhone with LiveSetPro.
+From the set, use **Share** to send a one-page PDF.
 
 **Does it work offline?**
 Yes. Internet is only needed to search songs on the web or receive updates.
@@ -73,7 +73,7 @@ In **Settings → General**.
 
 ## Your data and backups
 
-Your songs and sets are stored **only on your device**. We do not make backups: if you change phones or uninstall the app, you can lose your library. Export your sets (`.lsp`) regularly and keep them somewhere safe.
+Your songs and sets are stored **only on your device**. We do not make backups: if you change phones or uninstall the app, you can lose your library. For now the app has no backup or library export.
 
 ## Copyright claims
 
